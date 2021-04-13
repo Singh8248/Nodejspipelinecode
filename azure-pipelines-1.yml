@@ -15,4 +15,4 @@ steps:
 |
     - task: CmdLine@2
       inputs:
-        script: 'npm install'
+        script:'npm install'
