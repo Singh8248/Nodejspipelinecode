@@ -17,4 +17,4 @@ steps:
       inputs:
         script: |
         
-          echo Hello world
+          npm install
